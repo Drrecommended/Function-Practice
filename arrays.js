@@ -23,7 +23,7 @@ var instructors = [
 // ---------------------------
 // 2. Find longest string
 // ---------------------------
-
+var strings = ['this','is','a','collection','of','words'];
 
 // ---------------------------
 // 3. Find even numbers
